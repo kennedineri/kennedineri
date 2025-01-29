@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Power BI and AI model development.
 - 💞️ I’m looking for full-time opportunities related to my skill set.
 - 📫 Reach me at kennedi.neri@gmai.com.
+- 📊 Access Tableau visualization projects here: https://public.tableau.com/app/profile/kennedi.neri/vizzes
 - ⚡ Fun fact: In my free time I teach and mentor elementary school children.
 
 <!---
